@@ -49,7 +49,7 @@ Use a normal request/response for this local demo. Show an honest indeterminate 
 
 ## 4. Extraction contract
 
-Keep the API key exclusively in server-side environment configuration. Use `ANTHROPIC_MODEL` to select a model verified against sample documents. Check current official [PDF](https://platform.claude.com/docs/en/build-with-claude/pdf-support), [vision](https://platform.claude.com/docs/en/build-with-claude/vision), and [structured output](https://platform.claude.com/docs/en/build-with-claude/structured-outputs) documentation during implementation.
+Keep the API key exclusively in server-side environment configuration. Claude is reached through the company's Azure AI Foundry deployment (`anthropic.AnthropicFoundry`, configured via `ANTHROPIC_FOUNDRY_API_KEY` / `ANTHROPIC_FOUNDRY_BASE_URL`), not the direct Anthropic API; `ANTHROPIC_DEPLOYMENT_NAME` selects the deployment verified against sample documents. Check current official [PDF](https://platform.claude.com/docs/en/build-with-claude/pdf-support), [vision](https://platform.claude.com/docs/en/build-with-claude/vision), and [structured output](https://platform.claude.com/docs/en/build-with-claude/structured-outputs) documentation during implementation — the Messages API surface is unchanged from stock Anthropic usage.
 
 Extract each document independently to prevent filling missing fields from another document. Preserve original values, normalized values, and explicit missing/unreadable/ambiguous states.
 

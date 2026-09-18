@@ -242,15 +242,10 @@ def _fix_item_mapping_sentinels(parsed: dict[str, Any]) -> dict[str, Any]:
 class AnthropicContentMatchAdapter:
     def __init__(self, config: AppConfig) -> None:
         self._config = config
-        default_headers = (
-            {"anthropic-workspace-id": config.anthropic_workspace_id}
-            if config.anthropic_workspace_id
-            else None
-        )
-        self._client = anthropic.Anthropic(
-            api_key=config.anthropic_api_key,
+        self._client = anthropic.AnthropicFoundry(
+            api_key=config.anthropic_foundry_api_key,
+            base_url=config.anthropic_foundry_base_url,
             max_retries=0,
-            default_headers=default_headers,
         )
 
     def judge(self, request: ContentMatchRequest) -> ContentMatchResult:
@@ -260,7 +255,7 @@ class AnthropicContentMatchAdapter:
         try:
             parsed = call_structured(
                 self._client,
-                model=self._config.anthropic_model,
+                model=self._config.anthropic_deployment_name,
                 system=_SYSTEM_PROMPT,
                 content=[{"type": "text", "text": _build_instructions(request)}],
                 json_schema=_build_schema(request),

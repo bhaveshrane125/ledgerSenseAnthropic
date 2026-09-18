@@ -15,7 +15,7 @@ Deliver **upload → extract → match → result** locally. Build the live extr
 - [ ] Pin the Python version in `.python-version`, define dependencies/dev tools in `pyproject.toml`, generate `uv.lock`, and create the local `.venv` with uv.
 - [ ] Keep routes, orchestration, extraction, normalization, validation, matching, schemas, configuration, and frontend assets in separate modules; keep matching independent of HTTP and Claude.
 - [ ] Configure package discovery and include static assets so startup does not depend on the current working directory.
-- [ ] Configure server-only `ANTHROPIC_API_KEY` and `ANTHROPIC_MODEL`; add placeholder `.env.example` and ignore secrets/private fixtures.
+- [ ] Configure server-only `ANTHROPIC_FOUNDRY_API_KEY`, `ANTHROPIC_FOUNDRY_BASE_URL`, and `ANTHROPIC_DEPLOYMENT_NAME` for the company's Azure AI Foundry deployment (`anthropic.AnthropicFoundry`, not the direct Anthropic API); add placeholder `.env.example` and ignore secrets/private fixtures.
 - [ ] Obtain one clean PO/GRN/invoice set and record expected fields.
 - [ ] Define runtime schemas for document fields, decimal strings, line items, uncertainty, and page evidence.
 - [ ] Verify current Anthropic model/input/structured-output support from official documentation.

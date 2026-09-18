@@ -1,9 +1,10 @@
 # LedgerSense — Three-Way Match POC
 
 A local demo: upload a **Purchase Order (PO)**, **Goods Receipt Note (GRN)**, and
-**Invoice**; Claude extracts each document independently through the server-side
-Anthropic API; deterministic backend rules compare them and return **Approved for
-payment** or **Exception raised** with explanations and source evidence.
+**Invoice**; Claude extracts each document independently through the company's
+Azure AI Foundry deployment; deterministic backend rules compare them and return
+**Approved for payment** or **Exception raised** with explanations and source
+evidence.
 
 Approval here is a **document-matching recommendation** — the app never executes
 payment. This is a small demo validation set (synthetic documents), not evidence of
@@ -45,7 +46,8 @@ tests/              pytest fixtures + matching unit tests
 - **Python 3.12** and [**uv**](https://docs.astral.sh/uv/) (tested with uv 0.11.26).
 - **Node.js 20+** and npm (tested with Node 24.6.0) — only needed to build the
   frontend; the running app is Python/Flask only.
-- An Anthropic API key with access to the configured model.
+- An Azure AI Foundry API key, resource endpoint, and Claude deployment name
+  (provided by the company) with access to structured outputs.
 
 Install uv:
 
@@ -65,13 +67,12 @@ cd ledgerSense
 # 1. Python backend
 uv sync --locked          # creates .venv, installs pinned dependencies
 
-# 2. Copy the env template and fill in your key
+# 2. Copy the env template and fill in your company's Azure AI Foundry credentials
 cp .env.example .env
 # Edit .env:
-#   ANTHROPIC_API_KEY=sk-ant-...
-#   ANTHROPIC_MODEL=claude-sonnet-5
-#   ANTHROPIC_WORKSPACE_ID=      # only needed if your key isn't workspace-scoped
-#                                 # (the API returns a 400 telling you to add this if so)
+#   ANTHROPIC_FOUNDRY_API_KEY=...
+#   ANTHROPIC_FOUNDRY_BASE_URL=https://<your-foundry-resource>.services.ai.azure.com/anthropic/
+#   ANTHROPIC_DEPLOYMENT_NAME=claude-sonnet-5
 
 # 3. Build the frontend (output lands in src/ledgersense/static/)
 cd frontend
@@ -171,6 +172,15 @@ Matching policy (see `plans/PROJECT_PLAN.md` §5 for the full rationale):
   blocks approval — nothing defaults to a pass.
 
 ## Extraction approach
+
+Claude is reached exclusively through the company's Azure AI Foundry
+deployment (`anthropic.AnthropicFoundry`, constructed with an
+`ANTHROPIC_FOUNDRY_API_KEY` / `ANTHROPIC_FOUNDRY_BASE_URL` pair) — never the
+direct Anthropic API — and the deployment name (`ANTHROPIC_DEPLOYMENT_NAME`)
+is passed as the `model` argument to `messages.create`, exactly as in the
+company's example snippet. Everything downstream of the client construction
+(the Messages API surface, structured-output schemas, retry logic) is
+unchanged from stock Anthropic usage.
 
 Each document is sent to Claude **independently** (never all three in one
 prompt) using the Messages API's native structured-output support
@@ -272,9 +282,9 @@ GRN upload.
 
 ## Security notes
 
-- The Anthropic API key lives only in server-side environment configuration,
-  loaded explicitly from `.env` by `config.py` (via `python-dotenv`) — never
-  sent to or read by the browser.
+- The Azure AI Foundry API key lives only in server-side environment
+  configuration, loaded explicitly from `.env` by `config.py` (via
+  `python-dotenv`) — never sent to or read by the browser.
 - No document content, extracted financial data, credentials, or raw provider
   error internals are logged.
 - `.env`, `.venv/`, `frontend/node_modules/`, and `src/ledgersense/static/`
