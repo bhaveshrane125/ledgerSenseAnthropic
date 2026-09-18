@@ -89,12 +89,9 @@ DEFAULT_MATCHING_POLICY = MatchingPolicy()
 
 @dataclass(frozen=True)
 class AppConfig:
-    # Claude is reached via the company's Azure AI Foundry deployment, not the
-    # direct Anthropic API — see extraction.py / content_matching.py, which
-    # construct `anthropic.AnthropicFoundry(api_key=..., base_url=...)`.
-    anthropic_foundry_api_key: str
-    anthropic_foundry_base_url: str
-    anthropic_deployment_name: str
+    anthropic_api_key: str
+    anthropic_model: str
+    anthropic_workspace_id: str | None
     # Overall wall-clock budget for one extraction call, in seconds.
     extraction_timeout_seconds: float
     # Bounded application-level retries on transient provider failures (SDK retries disabled).
@@ -113,18 +110,14 @@ def get_config() -> AppConfig:
 
     _load_env_once()
 
-    api_key = os.environ.get("ANTHROPIC_FOUNDRY_API_KEY")
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        raise RuntimeError("Missing required environment variable: ANTHROPIC_FOUNDRY_API_KEY")
-
-    base_url = os.environ.get("ANTHROPIC_FOUNDRY_BASE_URL")
-    if not base_url:
-        raise RuntimeError("Missing required environment variable: ANTHROPIC_FOUNDRY_BASE_URL")
+        raise RuntimeError("Missing required environment variable: ANTHROPIC_API_KEY")
 
     _cached = AppConfig(
-        anthropic_foundry_api_key=api_key,
-        anthropic_foundry_base_url=base_url,
-        anthropic_deployment_name=os.environ.get("ANTHROPIC_DEPLOYMENT_NAME") or "claude-sonnet-5",
+        anthropic_api_key=api_key,
+        anthropic_model=os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5",
+        anthropic_workspace_id=os.environ.get("ANTHROPIC_WORKSPACE_ID") or None,
         extraction_timeout_seconds=45.0,
         extraction_max_attempts=2,
         upload=DEFAULT_UPLOAD_LIMITS,
