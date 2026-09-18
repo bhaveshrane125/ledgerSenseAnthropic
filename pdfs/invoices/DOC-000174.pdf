@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1842 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-004\)) Tj
+T*
+(Tax ID: 99SYNTH0004Z7) Tj
+T*
+(Address: 358 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000174    Document: DOC-000174) Tj
+T*
+(Invoice Date: 2026-07-02    Due Date: 2026-08-01) Tj
+T*
+(PO: PO-000174    GRN: GRN-000174) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                 129 EA         9.00    1161.00) Tj
+T*
+(2   PKG-STRAP-16-032     Polyester Packing Strap 16mm        121 ROLL     920.00  111320.00) Tj
+T*
+(3   PKG-STRAP-16-064     Polyester Packing Strap 16mm         47 ROLL     966.00   45402.00) Tj
+T*
+(4   FLT-AIR-010-071      Compressed Air Filter Element        94 EA       650.00   61100.00) Tj
+T*
+(5   GLV-NIT-L-044        Nitrile Safety Gloves Large          47 PAIR      37.80    1776.60) Tj
+T*
+(6   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                  39 EA        12.00     468.00) Tj
+T*
+(7   FLT-AIR-010-063      Compressed Air Filter Element       143 EA       650.00   92950.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 314177.60) Tj
+T*
+(Tax: INR 56551.97) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 370729.57) Tj
+T*
+(Calculated Gross Total: INR 370729.57) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002029 00000 n 
+0000002086 00000 n 
+0000002156 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2205
+%%EOF

@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1375 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000053    PO Date: 2026-02-23) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-006\)) Tj
+T*
+(Tax ID: 99SYNTH0006Z8    Payment Terms: NET 15) Tj
+T*
+(Address: 559 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN-042        M8 Zinc Hex Nut                     142 EA         4.73     671.66) Tj
+T*
+(2   FLT-AIR-010-015      Compressed Air Filter Element       122 EA       585.00   71370.00) Tj
+T*
+(3   GLV-NIT-L-052        Nitrile Safety Gloves Large         109 PAIR      42.00    4578.00) Tj
+T*
+(4   NUT-M8-ZN-066        M8 Zinc Hex Nut                      17 EA         4.73      80.41) Tj
+T*
+(5   BLT-M8-040-ZN        M8x40 Hex Bolt Zinc                  52 EA        12.00     624.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 77324.07) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001562 00000 n 
+0000001619 00000 n 
+0000001689 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1738
+%%EOF

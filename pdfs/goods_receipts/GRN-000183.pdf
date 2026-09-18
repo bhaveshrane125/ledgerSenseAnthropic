@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1277 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000183    Receipt Date: 2026-01-08) Tj
+T*
+(Linked PO: PO-000183) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-014\)) Tj
+T*
+(Condition: Synthetic goods received in acceptable condition) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Item ID       SKU                  Received Rejected UOM) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-070      CBL-CU-2C-070              17        0 MTR  ) Tj
+T*
+(2   ITEM-043      BRG-6205-2RS-043           29        0 EA   ) Tj
+T*
+(3   ITEM-050      NUT-M8-ZN-050             115        0 EA   ) Tj
+T*
+(4   ITEM-018      NUT-M8-ZN-018              63        0 EA   ) Tj
+T*
+(5   ITEM-011      BRG-6205-2RS-011           23        0 EA   ) Tj
+T*
+(6   ITEM-065      BLT-M8-040-ZN-065          91        0 EA   ) Tj
+T*
+(7   ITEM-045      OIL-HYD-46-045            158        0 LTR  ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001464 00000 n 
+0000001521 00000 n 
+0000001591 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1640
+%%EOF

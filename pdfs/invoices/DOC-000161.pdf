@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1523 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(WAREHOUSE INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000161    Document: DOC-000161) Tj
+T*
+(Invoice Date: 2026-06-19    Due Date: 2026-07-19) Tj
+T*
+(PO: PO-000161    GRN: GRN-000161) Tj
+T*
+(Currency: INR    Scenario: ARITHMETIC_ERROR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46-029       Hydraulic Oil ISO VG 46              80 LTR      118.00    9440.00) Tj
+T*
+(2   BLT-M8-040-ZN        M8x40 Hex Bolt Zinc                 122 EA        12.00    1464.00) Tj
+T*
+(3   BRG-6205-2RS         Sealed Ball Bearing 6205            143 EA       203.50   29100.50) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 40004.50) Tj
+T*
+(Tax: INR 7200.81) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 47204.31) Tj
+T*
+(Calculated Gross Total: INR 47205.31) Tj
+T*
+(Source document intentionally contains an arithmetic error.) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001710 00000 n 
+0000001767 00000 n 
+0000001837 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1886
+%%EOF

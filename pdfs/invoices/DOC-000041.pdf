@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1751 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Tax ID: 99SYNTH0005Z7) Tj
+T*
+(Address: 109 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000041    Document: DOC-000041) Tj
+T*
+(Invoice Date: 2026-02-19    Due Date: 2026-03-21) Tj
+T*
+(PO: PO-000041    GRN: GRN-000041) Tj
+T*
+(Currency: INR    Scenario: PRICE_VARIANCE_OVER) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              88 LTR      127.44   11214.72) Tj
+T*
+(2   FLT-AIR-010-071      Compressed Air Filter Element        94 EA       650.00   61100.00) Tj
+T*
+(3   GLV-NIT-L-068        Nitrile Safety Gloves Large         120 PAIR      50.40    6048.00) Tj
+T*
+(4   OIL-HYD-46-045       Hydraulic Oil ISO VG 46              73 LTR      118.00    8614.00) Tj
+T*
+(5   FLT-AIR-010-055      Compressed Air Filter Element        82 EA       780.00   63960.00) Tj
+T*
+(6   FLT-AIR-010-079      Compressed Air Filter Element        68 EA       780.00   53040.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 203976.72) Tj
+T*
+(Tax: INR 36715.81) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 240692.53) Tj
+T*
+(Calculated Gross Total: INR 240692.53) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001938 00000 n 
+0000001995 00000 n 
+0000002065 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2114
+%%EOF

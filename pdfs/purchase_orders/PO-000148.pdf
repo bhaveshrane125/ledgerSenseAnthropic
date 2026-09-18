@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 968 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000148    PO Date: 2026-05-29) Tj
+T*
+(Vendor: Helio Industrial Supplies Pvt Ltd \(VEN-015\)) Tj
+T*
+(Tax ID: 99SYNTH0015Z2    Payment Terms: NET 45) Tj
+T*
+(Address: 166 Test Estate, Pune, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN            M8 Zinc Hex Nut                      80 EA         4.05     324.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 324.00) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001154 00000 n 
+0000001211 00000 n 
+0000001281 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1330
+%%EOF

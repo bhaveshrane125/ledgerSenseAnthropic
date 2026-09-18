@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1848 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(WAREHOUSE INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000106    Document: DOC-000106) Tj
+T*
+(Invoice Date: 2026-04-25    Due Date: 2026-05-25) Tj
+T*
+(PO: PO-000106    GRN: MISSING) Tj
+T*
+(Currency: INR    Scenario: MISSING_GRN) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46-021       Hydraulic Oil ISO VG 46              99 LTR      123.90   12266.10) Tj
+T*
+(2   NUT-M8-ZN-026        M8 Zinc Hex Nut                     145 EA         4.73     685.85) Tj
+T*
+(3   CBL-CU-2C-078        Copper Control Cable 2 Core          30 MTR       72.00    2160.00) Tj
+T*
+(4   NUT-M8-ZN-018        M8 Zinc Hex Nut                     136 EA         4.50     612.00) Tj
+T*
+(5   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                  35 EA        12.00     420.00) Tj
+T*
+(6   FLT-AIR-010          Compressed Air Filter Element        76 EA       780.00   59280.00) Tj
+T*
+(7   CBL-CU-2C-062        Copper Control Cable 2 Core          25 MTR       86.40    2160.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 77583.95) Tj
+T*
+(Tax: INR 13965.11) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 91549.06) Tj
+T*
+(Calculated Gross Total: INR 91549.06) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002035 00000 n 
+0000002092 00000 n 
+0000002162 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2211
+%%EOF

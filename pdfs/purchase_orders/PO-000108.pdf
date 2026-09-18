@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1477 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000108    PO Date: 2026-04-19) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4    Payment Terms: NET 30) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   FLT-AIR-010-031      Compressed Air Filter Element        85 EA       682.50   58012.50) Tj
+T*
+(2   NUT-M8-ZN-050        M8 Zinc Hex Nut                      29 EA         4.05     117.45) Tj
+T*
+(3   BRG-6205-2RS-011     Sealed Ball Bearing 6205             89 EA       166.50   14818.50) Tj
+T*
+(4   PKG-STRAP-16-048     Polyester Packing Strap 16mm         41 ROLL     828.00   33948.00) Tj
+T*
+(5   OIL-HYD-46-029       Hydraulic Oil ISO VG 46              39 LTR      118.00    4602.00) Tj
+T*
+(6   GLV-NIT-L            Nitrile Safety Gloves Large          13 PAIR      46.20     600.60) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 112099.05) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001664 00000 n 
+0000001721 00000 n 
+0000001791 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1840
+%%EOF

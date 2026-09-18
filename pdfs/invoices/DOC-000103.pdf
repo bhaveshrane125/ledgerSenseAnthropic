@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1328 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Aarav Machine Tools Pvt Ltd \(VEN-003\)) Tj
+T*
+(Tax ID: 99SYNTH0003Z9) Tj
+T*
+(Address: 439 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000103    Document: DOC-000103) Tj
+T*
+(Invoice Date: 2026-04-22    Due Date: 2026-05-22) Tj
+T*
+(PO: PO-000103    GRN: GRN-000103) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-038        Copper Control Cable 2 Core         133 MTR       79.20   10533.60) Tj
+T*
+(2   OIL-HYD-46-013       Hydraulic Oil ISO VG 46             142 LTR      123.90   17593.80) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 28127.40) Tj
+T*
+(Tax: INR 5062.93) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 33190.33) Tj
+T*
+(Calculated Gross Total: INR 33190.33) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001515 00000 n 
+0000001572 00000 n 
+0000001642 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1691
+%%EOF

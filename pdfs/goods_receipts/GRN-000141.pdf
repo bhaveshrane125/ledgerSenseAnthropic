@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1283 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000141    Receipt Date: 2026-05-26) Tj
+T*
+(Linked PO: PO-000141) Tj
+T*
+(Vendor: Cobalt Warehouse Services Pvt Ltd \(VEN-011\)) Tj
+T*
+(Condition: Synthetic goods received in acceptable condition) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Item ID       SKU                  Received Rejected UOM) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-019      BRG-6205-2RS-019          116        0 EA   ) Tj
+T*
+(2   ITEM-032      PKG-STRAP-16-032           84        0 ROLL ) Tj
+T*
+(3   ITEM-005      OIL-HYD-46                111        0 LTR  ) Tj
+T*
+(4   ITEM-074      NUT-M8-ZN-074              42        0 EA   ) Tj
+T*
+(5   ITEM-015      FLT-AIR-010-015           109        0 EA   ) Tj
+T*
+(6   ITEM-025      BLT-M8-040-ZN-025          56        0 EA   ) Tj
+T*
+(7   ITEM-003      BRG-6205-2RS              109        0 EA   ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001470 00000 n 
+0000001527 00000 n 
+0000001597 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1646
+%%EOF

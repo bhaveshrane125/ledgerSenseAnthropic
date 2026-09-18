@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1468 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000093    PO Date: 2026-04-04) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-014\)) Tj
+T*
+(Tax ID: 99SYNTH0014Z7    Payment Terms: NET 15) Tj
+T*
+(Address: 380 Test Estate, Chennai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN-074        M8 Zinc Hex Nut                      33 EA         4.73     156.09) Tj
+T*
+(2   FLT-AIR-010-055      Compressed Air Filter Element       107 EA       780.00   83460.00) Tj
+T*
+(3   PKG-STRAP-16-080     Polyester Packing Strap 16mm          9 ROLL     920.00    8280.00) Tj
+T*
+(4   GLV-NIT-L-052        Nitrile Safety Gloves Large          87 PAIR      42.00    3654.00) Tj
+T*
+(5   CBL-CU-2C-054        Copper Control Cable 2 Core          47 MTR       79.20    3722.40) Tj
+T*
+(6   CBL-CU-2C-038        Copper Control Cable 2 Core         121 MTR       79.20    9583.20) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 108855.69) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001655 00000 n 
+0000001712 00000 n 
+0000001782 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1831
+%%EOF

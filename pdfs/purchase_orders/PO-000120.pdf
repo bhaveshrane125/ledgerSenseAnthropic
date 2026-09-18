@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1572 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000120    PO Date: 2026-05-01) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-008\)) Tj
+T*
+(Tax ID: 99SYNTH0008Z2    Payment Terms: NET 30) Tj
+T*
+(Address: 399 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-022        Copper Control Cable 2 Core          74 MTR       86.40    6393.60) Tj
+T*
+(2   BLT-M8-040-ZN-057    M8x40 Hex Bolt Zinc                  18 EA        10.50     189.00) Tj
+T*
+(3   OIL-HYD-46-045       Hydraulic Oil ISO VG 46              23 LTR      118.00    2714.00) Tj
+T*
+(4   NUT-M8-ZN-058        M8 Zinc Hex Nut                     107 EA         5.40     577.80) Tj
+T*
+(5   CBL-CU-2C            Copper Control Cable 2 Core          97 MTR       79.20    7682.40) Tj
+T*
+(6   CBL-CU-2C-046        Copper Control Cable 2 Core         135 MTR       86.40   11664.00) Tj
+T*
+(7   PKG-STRAP-16-056     Polyester Packing Strap 16mm         44 ROLL     920.00   40480.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 69700.80) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001759 00000 n 
+0000001816 00000 n 
+0000001886 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1935
+%%EOF

@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1758 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(WAREHOUSE INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Helio Precision Components Pvt Ltd \(VEN-013\)) Tj
+T*
+(Tax ID: 99SYNTH0013Z3) Tj
+T*
+(Address: 262 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000195    Document: DOC-000195) Tj
+T*
+(Invoice Date: 2026-01-24    Due Date: 2026-02-23) Tj
+T*
+(PO: PO-000195    GRN: GRN-000195) Tj
+T*
+(Currency: INR    Scenario: QTY_OVER_BILLED) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   PKG-STRAP-16-056     Polyester Packing Strap 16mm        142 ROLL     920.00  130640.00) Tj
+T*
+(2   CBL-CU-2C-014        Copper Control Cable 2 Core         136 MTR       75.60   10281.60) Tj
+T*
+(3   NUT-M8-ZN            M8 Zinc Hex Nut                     146 EA         4.05     591.30) Tj
+T*
+(4   OIL-HYD-46-013       Hydraulic Oil ISO VG 46             152 LTR      123.90   18832.80) Tj
+T*
+(5   NUT-M8-ZN-034        M8 Zinc Hex Nut                     151 EA         5.40     815.40) Tj
+T*
+(6   OIL-HYD-46-029       Hydraulic Oil ISO VG 46              60 LTR      118.00    7080.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 168241.10) Tj
+T*
+(Tax: INR 30283.40) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 198524.50) Tj
+T*
+(Calculated Gross Total: INR 198524.50) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001945 00000 n 
+0000002002 00000 n 
+0000002072 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2121
+%%EOF

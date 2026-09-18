@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1577 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000111    PO Date: 2026-04-22) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4    Payment Terms: NET 30) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   FLT-AIR-010-015      Compressed Air Filter Element       111 EA       585.00   64935.00) Tj
+T*
+(2   OIL-HYD-46-037       Hydraulic Oil ISO VG 46             121 LTR      123.90   14991.90) Tj
+T*
+(3   FLT-AIR-010-031      Compressed Air Filter Element        20 EA       682.50   13650.00) Tj
+T*
+(4   FLT-AIR-010-039      Compressed Air Filter Element        32 EA       585.00   18720.00) Tj
+T*
+(5   PKG-STRAP-16-016     Polyester Packing Strap 16mm        131 ROLL     966.00  126546.00) Tj
+T*
+(6   FLT-AIR-010          Compressed Air Filter Element       156 EA       780.00  121680.00) Tj
+T*
+(7   CBL-CU-2C-078        Copper Control Cable 2 Core         141 MTR       72.00   10152.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 370674.90) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001764 00000 n 
+0000001821 00000 n 
+0000001891 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1940
+%%EOF

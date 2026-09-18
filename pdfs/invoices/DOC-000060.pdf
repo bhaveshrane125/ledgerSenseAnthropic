@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1348 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(WAREHOUSE INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Cobalt Warehouse Services Pvt Ltd \(VEN-011\)) Tj
+T*
+(Tax ID: 99SYNTH0011Z4) Tj
+T*
+(Address: 851 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000060    Document: DOC-000060) Tj
+T*
+(Invoice Date: 2026-03-10    Due Date: 2026-04-09) Tj
+T*
+(PO: PO-000060    GRN: GRN-000060) Tj
+T*
+(Currency: INR    Scenario: QTY_OVER_BILLED) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   BRG-6205-2RS-043     Sealed Ball Bearing 6205            112 EA       185.00   20720.00) Tj
+T*
+(2   OIL-HYD-46-069       Hydraulic Oil ISO VG 46              85 LTR      129.80   11033.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 31753.00) Tj
+T*
+(Tax: INR 5715.54) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 37468.54) Tj
+T*
+(Calculated Gross Total: INR 37468.54) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001535 00000 n 
+0000001592 00000 n 
+0000001662 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1711
+%%EOF

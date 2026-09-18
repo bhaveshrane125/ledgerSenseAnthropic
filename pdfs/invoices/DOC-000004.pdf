@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1551 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-008\)) Tj
+T*
+(Tax ID: 99SYNTH0008Z2) Tj
+T*
+(Address: 399 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000004    Document: DOC-000004) Tj
+T*
+(Invoice Date: 2026-01-13    Due Date: 2026-02-12) Tj
+T*
+(PO: PO-000004    GRN: GRN-000004) Tj
+T*
+(Currency: INR    Scenario: PRICE_VARIANCE_OVER) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   NUT-M8-ZN-010        M8 Zinc Hex Nut                      16 EA         4.37      69.92) Tj
+T*
+(2   BLT-M8-040-ZN-057    M8x40 Hex Bolt Zinc                 142 EA        10.50    1491.00) Tj
+T*
+(3   FLT-AIR-010-071      Compressed Air Filter Element         7 EA       650.00    4550.00) Tj
+T*
+(4   OIL-HYD-46-013       Hydraulic Oil ISO VG 46              27 LTR      123.90    3345.30) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 9456.22) Tj
+T*
+(Tax: INR 1702.12) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 11158.34) Tj
+T*
+(Calculated Gross Total: INR 11158.34) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001738 00000 n 
+0000001795 00000 n 
+0000001865 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1914
+%%EOF

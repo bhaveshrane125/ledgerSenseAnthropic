@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1824 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(WAREHOUSE INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Helio Precision Components Pvt Ltd \(VEN-013\)) Tj
+T*
+(Tax ID: 99SYNTH0013Z3) Tj
+T*
+(Address: 262 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000184    Document: DOC-000184) Tj
+T*
+(Invoice Date: 2026-01-13    Due Date: 2026-02-12) Tj
+T*
+(PO: PO-000184    GRN: GRN-000184) Tj
+T*
+(Currency: INR    Scenario: ARITHMETIC_ERROR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   GLV-NIT-L            Nitrile Safety Gloves Large         145 PAIR      46.20    6699.00) Tj
+T*
+(2   BRG-6205-2RS-035     Sealed Ball Bearing 6205            100 EA       166.50   16650.00) Tj
+T*
+(3   NUT-M8-ZN-058        M8 Zinc Hex Nut                     114 EA         5.40     615.60) Tj
+T*
+(4   FLT-AIR-010-063      Compressed Air Filter Element        51 EA       650.00   33150.00) Tj
+T*
+(5   CBL-CU-2C-030        Copper Control Cable 2 Core         153 MTR       72.00   11016.00) Tj
+T*
+(6   CBL-CU-2C-046        Copper Control Cable 2 Core         101 MTR       86.40    8726.40) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 76857.00) Tj
+T*
+(Tax: INR 13834.26) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 90690.26) Tj
+T*
+(Calculated Gross Total: INR 90691.26) Tj
+T*
+(Source document intentionally contains an arithmetic error.) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002011 00000 n 
+0000002068 00000 n 
+0000002138 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2187
+%%EOF

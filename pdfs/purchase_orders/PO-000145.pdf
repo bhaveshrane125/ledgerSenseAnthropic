@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1272 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000145    PO Date: 2026-05-26) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-004\)) Tj
+T*
+(Tax ID: 99SYNTH0004Z7    Payment Terms: NET 30) Tj
+T*
+(Address: 358 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46-069       Hydraulic Oil ISO VG 46              31 LTR      129.80    4023.80) Tj
+T*
+(2   BRG-6205-2RS-035     Sealed Ball Bearing 6205            154 EA       166.50   25641.00) Tj
+T*
+(3   PKG-STRAP-16-072     Polyester Packing Strap 16mm         65 ROLL     920.00   59800.00) Tj
+T*
+(4   NUT-M8-ZN-018        M8 Zinc Hex Nut                      66 EA         4.50     297.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 89761.80) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001459 00000 n 
+0000001516 00000 n 
+0000001586 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1635
+%%EOF

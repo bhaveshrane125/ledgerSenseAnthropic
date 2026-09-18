@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1233 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Tax ID: 99SYNTH0005Z7) Tj
+T*
+(Address: 109 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000171    Document: DOC-000171) Tj
+T*
+(Invoice Date: 2026-06-29    Due Date: 2026-07-29) Tj
+T*
+(PO: PO-000171    GRN: GRN-000171) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   GLV-NIT-L-028        Nitrile Safety Gloves Large          52 PAIR      50.40    2620.80) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 2620.80) Tj
+T*
+(Tax: INR 471.74) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 3092.54) Tj
+T*
+(Calculated Gross Total: INR 3092.54) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001420 00000 n 
+0000001477 00000 n 
+0000001547 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1596
+%%EOF

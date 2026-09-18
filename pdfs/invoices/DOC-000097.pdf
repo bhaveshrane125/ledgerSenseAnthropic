@@ -1,0 +1,93 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1947 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Tax ID: 99SYNTH0005Z7) Tj
+T*
+(Address: 109 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000097    Document: DOC-000097) Tj
+T*
+(Invoice Date: 2026-04-16    Due Date: 2026-05-16) Tj
+T*
+(PO: PO-000097    GRN: GRN-000097) Tj
+T*
+(Currency: INR    Scenario: PRICE_VARIANCE_OVER) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   NUT-M8-ZN-058        M8 Zinc Hex Nut                     102 EA         5.94     605.88) Tj
+T*
+(2   OIL-HYD-46           Hydraulic Oil ISO VG 46             122 LTR      141.60   17275.20) Tj
+T*
+(3   PKG-STRAP-16         Polyester Packing Strap 16mm        152 ROLL     966.00  146832.00) Tj
+T*
+(4   PKG-STRAP-16-048     Polyester Packing Strap 16mm        145 ROLL     828.00  120060.00) Tj
+T*
+(5   OIL-HYD-46-037       Hydraulic Oil ISO VG 46              14 LTR      123.90    1734.60) Tj
+T*
+(6   NUT-M8-ZN-010        M8 Zinc Hex Nut                     119 EA         4.05     481.95) Tj
+T*
+(7   GLV-NIT-L-012        Nitrile Safety Gloves Large         150 PAIR      50.40    7560.00) Tj
+T*
+(8   BLT-M8-040-ZN-065    M8x40 Hex Bolt Zinc                  52 EA        11.00     572.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 295121.63) Tj
+T*
+(Tax: INR 53121.89) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 348243.52) Tj
+T*
+(Calculated Gross Total: INR 348243.52) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002134 00000 n 
+0000002191 00000 n 
+0000002261 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2310
+%%EOF

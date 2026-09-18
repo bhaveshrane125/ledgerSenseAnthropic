@@ -1,0 +1,93 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1939 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-007\)) Tj
+T*
+(Tax ID: 99SYNTH0007Z4) Tj
+T*
+(Address: 731 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000056    Document: DOC-000056) Tj
+T*
+(Invoice Date: 2026-03-06    Due Date: 2026-04-05) Tj
+T*
+(PO: PO-000056    GRN: GRN-000056) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              38 LTR      118.00    4484.00) Tj
+T*
+(2   PKG-STRAP-16-032     Polyester Packing Strap 16mm         21 ROLL     920.00   19320.00) Tj
+T*
+(3   BRG-6205-2RS-059     Sealed Ball Bearing 6205             74 EA       222.00   16428.00) Tj
+T*
+(4   FLT-AIR-010-071      Compressed Air Filter Element       110 EA       650.00   71500.00) Tj
+T*
+(5   BRG-6205-2RS-019     Sealed Ball Bearing 6205             91 EA       203.50   18518.50) Tj
+T*
+(6   NUT-M8-ZN-050        M8 Zinc Hex Nut                     133 EA         4.05     538.65) Tj
+T*
+(7   BLT-M8-040-ZN-025    M8x40 Hex Bolt Zinc                  72 EA         9.00     648.00) Tj
+T*
+(8   NUT-M8-ZN-066        M8 Zinc Hex Nut                       4 EA         4.73      18.92) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 131456.07) Tj
+T*
+(Tax: INR 23662.09) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 155118.16) Tj
+T*
+(Calculated Gross Total: INR 155118.16) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002126 00000 n 
+0000002183 00000 n 
+0000002253 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2302
+%%EOF

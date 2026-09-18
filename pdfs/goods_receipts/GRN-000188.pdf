@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 929 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000188    Receipt Date: 2026-01-13) Tj
+T*
+(Linked PO: PO-000188) Tj
+T*
+(Vendor: Helio Precision Components Pvt Ltd \(VEN-013\)) Tj
+T*
+(Condition: Synthetic goods received in acceptable condition) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Item ID       SKU                  Received Rejected UOM) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-072      PKG-STRAP-16-072          150        0 ROLL ) Tj
+T*
+(2   ITEM-032      PKG-STRAP-16-032          137        0 ROLL ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001115 00000 n 
+0000001172 00000 n 
+0000001242 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1291
+%%EOF

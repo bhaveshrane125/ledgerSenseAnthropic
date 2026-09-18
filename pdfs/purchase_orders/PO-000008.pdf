@@ -1,0 +1,67 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1074 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000008    PO Date: 2026-01-09) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5    Payment Terms: NET 15) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-054        Copper Control Cable 2 Core         148 MTR       79.20   11721.60) Tj
+T*
+(2   BRG-6205-2RS-075     Sealed Ball Bearing 6205            137 EA       166.50   22810.50) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 34532.10) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001261 00000 n 
+0000001318 00000 n 
+0000001388 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1437
+%%EOF

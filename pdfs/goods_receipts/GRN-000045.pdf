@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1355 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000045    Receipt Date: 2026-02-19) Tj
+T*
+(Linked PO: PO-000045) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Condition: Synthetic goods received in acceptable condition) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Item ID       SKU                  Received Rejected UOM) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-015      FLT-AIR-010-015            42        0 EA   ) Tj
+T*
+(2   ITEM-009      BLT-M8-040-ZN-009         148        0 EA   ) Tj
+T*
+(3   ITEM-052      GLV-NIT-L-052              81        0 PAIR ) Tj
+T*
+(4   ITEM-063      FLT-AIR-010-063            25        0 EA   ) Tj
+T*
+(5   ITEM-010      NUT-M8-ZN-010              67        0 EA   ) Tj
+T*
+(6   ITEM-074      NUT-M8-ZN-074              34        0 EA   ) Tj
+T*
+(7   ITEM-007      FLT-AIR-010               146        0 EA   ) Tj
+T*
+(8   ITEM-020      GLV-NIT-L-020             110        0 PAIR ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001542 00000 n 
+0000001599 00000 n 
+0000001669 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1718
+%%EOF

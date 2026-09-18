@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1651 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-004\)) Tj
+T*
+(Tax ID: 99SYNTH0004Z7) Tj
+T*
+(Address: 358 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000165    Document: DOC-000165) Tj
+T*
+(Invoice Date: 2026-06-23    Due Date: 2026-07-23) Tj
+T*
+(PO: PO-000165    GRN: GRN-000165) Tj
+T*
+(Currency: INR    Scenario: QTY_OVER_BILLED) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BRG-6205-2RS-019     Sealed Ball Bearing 6205             85 EA       203.50   17297.50) Tj
+T*
+(2   BRG-6205-2RS-067     Sealed Ball Bearing 6205             19 EA       203.50    3866.50) Tj
+T*
+(3   OIL-HYD-46-029       Hydraulic Oil ISO VG 46             146 LTR      118.00   17228.00) Tj
+T*
+(4   OIL-HYD-46-053       Hydraulic Oil ISO VG 46             155 LTR      118.00   18290.00) Tj
+T*
+(5   FLT-AIR-010-039      Compressed Air Filter Element        48 EA       585.00   28080.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 84762.00) Tj
+T*
+(Tax: INR 15257.16) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 100019.16) Tj
+T*
+(Calculated Gross Total: INR 100019.16) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001838 00000 n 
+0000001895 00000 n 
+0000001965 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2014
+%%EOF

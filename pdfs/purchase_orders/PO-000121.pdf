@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1671 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000121    PO Date: 2026-05-02) Tj
+T*
+(Vendor: Cobalt Warehouse Services Pvt Ltd \(VEN-011\)) Tj
+T*
+(Tax ID: 99SYNTH0011Z4    Payment Terms: NET 15) Tj
+T*
+(Address: 851 Test Estate, Pune, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46           Hydraulic Oil ISO VG 46              12 LTR      141.60    1699.20) Tj
+T*
+(2   BLT-M8-040-ZN-017    M8x40 Hex Bolt Zinc                 158 EA        11.00    1738.00) Tj
+T*
+(3   BLT-M8-040-ZN-009    M8x40 Hex Bolt Zinc                  43 EA        12.00     516.00) Tj
+T*
+(4   FLT-AIR-010-031      Compressed Air Filter Element       119 EA       682.50   81217.50) Tj
+T*
+(5   FLT-AIR-010-047      Compressed Air Filter Element        98 EA       585.00   57330.00) Tj
+T*
+(6   GLV-NIT-L-076        Nitrile Safety Gloves Large          99 PAIR      50.40    4989.60) Tj
+T*
+(7   NUT-M8-ZN-050        M8 Zinc Hex Nut                     117 EA         4.05     473.85) Tj
+T*
+(8   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                  23 EA         9.00     207.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 148171.15) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001858 00000 n 
+0000001915 00000 n 
+0000001985 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2034
+%%EOF

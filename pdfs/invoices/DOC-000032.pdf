@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1735 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-007\)) Tj
+T*
+(Tax ID: 99SYNTH0007Z4) Tj
+T*
+(Address: 731 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000032    Document: DOC-000032) Tj
+T*
+(Invoice Date: 2026-02-10    Due Date: 2026-03-12) Tj
+T*
+(PO: PO-000032    GRN: GRN-000032) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   GLV-NIT-L-028        Nitrile Safety Gloves Large         111 PAIR      50.40    5594.40) Tj
+T*
+(2   BRG-6205-2RS-059     Sealed Ball Bearing 6205             68 EA       222.00   15096.00) Tj
+T*
+(3   NUT-M8-ZN-042        M8 Zinc Hex Nut                      24 EA         4.73     113.52) Tj
+T*
+(4   GLV-NIT-L-044        Nitrile Safety Gloves Large         124 PAIR      37.80    4687.20) Tj
+T*
+(5   BLT-M8-040-ZN-049    M8x40 Hex Bolt Zinc                   8 EA        11.00      88.00) Tj
+T*
+(6   GLV-NIT-L-036        Nitrile Safety Gloves Large         142 PAIR      50.40    7156.80) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 32735.92) Tj
+T*
+(Tax: INR 5892.47) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 38628.39) Tj
+T*
+(Calculated Gross Total: INR 38628.39) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001922 00000 n 
+0000001979 00000 n 
+0000002049 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2098
+%%EOF

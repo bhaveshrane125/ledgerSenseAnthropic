@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 2010 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-007\)) Tj
+T*
+(Tax ID: 99SYNTH0007Z4) Tj
+T*
+(Address: 731 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000147    Document: DOC-000147) Tj
+T*
+(Invoice Date: 2026-06-05    Due Date: 2026-07-05) Tj
+T*
+(PO: PO-000147    GRN: GRN-000147) Tj
+T*
+(Currency: INR    Scenario: ARITHMETIC_ERROR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-062        Copper Control Cable 2 Core         140 MTR       86.40   12096.00) Tj
+T*
+(2   NUT-M8-ZN-026        M8 Zinc Hex Nut                      13 EA         4.73      61.49) Tj
+T*
+(3   OIL-HYD-46-037       Hydraulic Oil ISO VG 46              48 LTR      123.90    5947.20) Tj
+T*
+(4   NUT-M8-ZN-042        M8 Zinc Hex Nut                     110 EA         4.73     520.30) Tj
+T*
+(5   CBL-CU-2C-078        Copper Control Cable 2 Core          49 MTR       72.00    3528.00) Tj
+T*
+(6   PKG-STRAP-16         Polyester Packing Strap 16mm         13 ROLL     966.00   12558.00) Tj
+T*
+(7   GLV-NIT-L-012        Nitrile Safety Gloves Large         105 PAIR      50.40    5292.00) Tj
+T*
+(8   CBL-CU-2C-030        Copper Control Cable 2 Core         130 MTR       72.00    9360.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 49362.99) Tj
+T*
+(Tax: INR 8885.34) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 58247.33) Tj
+T*
+(Calculated Gross Total: INR 58248.33) Tj
+T*
+(Source document intentionally contains an arithmetic error.) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002197 00000 n 
+0000002254 00000 n 
+0000002324 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2373
+%%EOF

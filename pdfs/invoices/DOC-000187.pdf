@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1333 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-006\)) Tj
+T*
+(Tax ID: 99SYNTH0006Z8) Tj
+T*
+(Address: 559 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000187    Document: DOC-000187) Tj
+T*
+(Invoice Date: 2026-01-16    Due Date: 2026-02-15) Tj
+T*
+(PO: PO-000187    GRN: GRN-000187) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   OIL-HYD-46-077       Hydraulic Oil ISO VG 46             102 LTR      141.60   14443.20) Tj
+T*
+(2   NUT-M8-ZN-042        M8 Zinc Hex Nut                       7 EA         4.73      33.11) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 14476.31) Tj
+T*
+(Tax: INR 2605.74) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 17082.05) Tj
+T*
+(Calculated Gross Total: INR 17082.05) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001520 00000 n 
+0000001577 00000 n 
+0000001647 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1696
+%%EOF

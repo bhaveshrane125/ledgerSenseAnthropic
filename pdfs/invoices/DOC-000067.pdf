@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1641 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Saffron Machine Tools Pvt Ltd \(VEN-010\)) Tj
+T*
+(Tax ID: 99SYNTH0010Z4) Tj
+T*
+(Address: 177 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000067    Document: DOC-000067) Tj
+T*
+(Invoice Date: 2026-03-17    Due Date: 2026-04-16) Tj
+T*
+(PO: PO-000067    GRN: GRN-000067) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   FLT-AIR-010-055      Compressed Air Filter Element       102 EA       780.00   79560.00) Tj
+T*
+(2   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                 127 EA        12.00    1524.00) Tj
+T*
+(3   BRG-6205-2RS-059     Sealed Ball Bearing 6205             31 EA       222.00    6882.00) Tj
+T*
+(4   FLT-AIR-010-039      Compressed Air Filter Element        64 EA       585.00   37440.00) Tj
+T*
+(5   NUT-M8-ZN-026        M8 Zinc Hex Nut                     101 EA         4.73     477.73) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 125883.73) Tj
+T*
+(Tax: INR 22659.07) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 148542.80) Tj
+T*
+(Calculated Gross Total: INR 148542.80) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001828 00000 n 
+0000001885 00000 n 
+0000001955 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2004
+%%EOF

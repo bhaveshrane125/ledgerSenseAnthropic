@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1741 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Tax ID: 99SYNTH0005Z7) Tj
+T*
+(Address: 109 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000089    Document: DOC-000089) Tj
+T*
+(Invoice Date: 2026-04-08    Due Date: 2026-05-08) Tj
+T*
+(PO: PO-000089    GRN: GRN-000089) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                  16 EA         9.00     144.00) Tj
+T*
+(2   OIL-HYD-46-077       Hydraulic Oil ISO VG 46              24 LTR      141.60    3398.40) Tj
+T*
+(3   BRG-6205-2RS-011     Sealed Ball Bearing 6205             73 EA       166.50   12154.50) Tj
+T*
+(4   FLT-AIR-010          Compressed Air Filter Element       117 EA       780.00   91260.00) Tj
+T*
+(5   GLV-NIT-L-020        Nitrile Safety Gloves Large         112 PAIR      37.80    4233.60) Tj
+T*
+(6   OIL-HYD-46-021       Hydraulic Oil ISO VG 46             128 LTR      123.90   15859.20) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 127049.70) Tj
+T*
+(Tax: INR 22868.95) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 149918.65) Tj
+T*
+(Calculated Gross Total: INR 149918.65) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001928 00000 n 
+0000001985 00000 n 
+0000002055 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2104
+%%EOF

@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1213 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000179    Receipt Date: 2026-07-03) Tj
+T*
+(Linked PO: PO-000179) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Condition: Synthetic goods received in acceptable condition) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Item ID       SKU                  Received Rejected UOM) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-035      BRG-6205-2RS-035          148        0 EA   ) Tj
+T*
+(2   ITEM-051      BRG-6205-2RS-051           66        0 EA   ) Tj
+T*
+(3   ITEM-011      BRG-6205-2RS-011           61        0 EA   ) Tj
+T*
+(4   ITEM-048      PKG-STRAP-16-048           80        0 ROLL ) Tj
+T*
+(5   ITEM-052      GLV-NIT-L-052              24        0 PAIR ) Tj
+T*
+(6   ITEM-059      BRG-6205-2RS-059           12        0 EA   ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001400 00000 n 
+0000001457 00000 n 
+0000001527 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1576
+%%EOF

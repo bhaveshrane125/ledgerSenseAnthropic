@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1471 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000023    PO Date: 2026-01-24) Tj
+T*
+(Vendor: Saffron Machine Tools Pvt Ltd \(VEN-010\)) Tj
+T*
+(Tax ID: 99SYNTH0010Z4    Payment Terms: NET 30) Tj
+T*
+(Address: 177 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   GLV-NIT-L-060        Nitrile Safety Gloves Large          47 PAIR      46.20    2171.40) Tj
+T*
+(2   BLT-M8-040-ZN-057    M8x40 Hex Bolt Zinc                  25 EA        10.50     262.50) Tj
+T*
+(3   FLT-AIR-010-079      Compressed Air Filter Element        76 EA       780.00   59280.00) Tj
+T*
+(4   GLV-NIT-L-028        Nitrile Safety Gloves Large         135 PAIR      50.40    6804.00) Tj
+T*
+(5   NUT-M8-ZN-066        M8 Zinc Hex Nut                      89 EA         4.73     420.97) Tj
+T*
+(6   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              27 LTR      118.00    3186.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 72124.87) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001658 00000 n 
+0000001715 00000 n 
+0000001785 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1834
+%%EOF

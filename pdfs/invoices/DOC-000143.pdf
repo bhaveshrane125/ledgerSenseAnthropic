@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1751 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-008\)) Tj
+T*
+(Tax ID: 99SYNTH0008Z2) Tj
+T*
+(Address: 399 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000143    Document: DOC-000143) Tj
+T*
+(Invoice Date: 2026-06-01    Due Date: 2026-07-01) Tj
+T*
+(PO: PO-000143    GRN: GRN-000143) Tj
+T*
+(Currency: INR    Scenario: PRICE_VARIANCE_OVER) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-070        Copper Control Cable 2 Core          75 MTR       69.98    5248.50) Tj
+T*
+(2   CBL-CU-2C-046        Copper Control Cable 2 Core         146 MTR       86.40   12614.40) Tj
+T*
+(3   NUT-M8-ZN-034        M8 Zinc Hex Nut                      80 EA         5.40     432.00) Tj
+T*
+(4   CBL-CU-2C-062        Copper Control Cable 2 Core          61 MTR       86.40    5270.40) Tj
+T*
+(5   BLT-M8-040-ZN-025    M8x40 Hex Bolt Zinc                  80 EA         9.00     720.00) Tj
+T*
+(6   PKG-STRAP-16-032     Polyester Packing Strap 16mm         77 ROLL     920.00   70840.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 95125.30) Tj
+T*
+(Tax: INR 17122.55) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 112247.85) Tj
+T*
+(Calculated Gross Total: INR 112247.85) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001938 00000 n 
+0000001995 00000 n 
+0000002065 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2114
+%%EOF

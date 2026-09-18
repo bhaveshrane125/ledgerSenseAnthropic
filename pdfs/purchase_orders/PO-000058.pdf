@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1474 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000058    PO Date: 2026-02-28) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5    Payment Terms: NET 15) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              36 LTR      118.00    4248.00) Tj
+T*
+(2   BLT-M8-040-ZN-049    M8x40 Hex Bolt Zinc                 132 EA        11.00    1452.00) Tj
+T*
+(3   NUT-M8-ZN-050        M8 Zinc Hex Nut                     155 EA         4.05     627.75) Tj
+T*
+(4   GLV-NIT-L-020        Nitrile Safety Gloves Large          88 PAIR      37.80    3326.40) Tj
+T*
+(5   PKG-STRAP-16-064     Polyester Packing Strap 16mm         29 ROLL     966.00   28014.00) Tj
+T*
+(6   OIL-HYD-46           Hydraulic Oil ISO VG 46             116 LTR      141.60   16425.60) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 54093.75) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001661 00000 n 
+0000001718 00000 n 
+0000001788 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1837
+%%EOF

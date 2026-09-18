@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1272 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000164    PO Date: 2026-06-14) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-004\)) Tj
+T*
+(Tax ID: 99SYNTH0004Z7    Payment Terms: NET 30) Tj
+T*
+(Address: 358 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   PKG-STRAP-16         Polyester Packing Strap 16mm         63 ROLL     966.00   60858.00) Tj
+T*
+(2   NUT-M8-ZN-018        M8 Zinc Hex Nut                     151 EA         4.50     679.50) Tj
+T*
+(3   BLT-M8-040-ZN-065    M8x40 Hex Bolt Zinc                  85 EA        11.00     935.00) Tj
+T*
+(4   CBL-CU-2C-038        Copper Control Cable 2 Core         151 MTR       79.20   11959.20) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 74431.70) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001459 00000 n 
+0000001516 00000 n 
+0000001586 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1635
+%%EOF

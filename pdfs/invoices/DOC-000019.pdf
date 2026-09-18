@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1422 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE SUMMARY) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000019    Document: DOC-000019) Tj
+T*
+(Invoice Date: 2026-01-28    Due Date: 2026-02-27) Tj
+T*
+(PO: PO-000019    GRN: GRN-000019) Tj
+T*
+(Currency: INR    Scenario: ARITHMETIC_ERROR) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   OIL-HYD-46-077       Hydraulic Oil ISO VG 46              92 LTR      141.60   13027.20) Tj
+T*
+(2   PKG-STRAP-16-056     Polyester Packing Strap 16mm         84 ROLL     920.00   77280.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 90307.20) Tj
+T*
+(Tax: INR 16255.30) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 106561.50) Tj
+T*
+(Calculated Gross Total: INR 106562.50) Tj
+T*
+(Source document intentionally contains an arithmetic error.) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001609 00000 n 
+0000001666 00000 n 
+0000001736 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1785
+%%EOF

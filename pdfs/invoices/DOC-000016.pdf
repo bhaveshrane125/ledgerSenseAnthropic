@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1735 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Aarav Machine Tools Pvt Ltd \(VEN-003\)) Tj
+T*
+(Tax ID: 99SYNTH0003Z9) Tj
+T*
+(Address: 439 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000016    Document: DOC-000016) Tj
+T*
+(Invoice Date: 2026-01-25    Due Date: 2026-02-24) Tj
+T*
+(PO: PO-000016    GRN: GRN-000016) Tj
+T*
+(Currency: INR    Scenario: UOM_MISMATCH) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   OIL-HYD-46-053       Hydraulic Oil ISO VG 46              13 ALT      118.00    1534.00) Tj
+T*
+(2   PKG-STRAP-16-032     Polyester Packing Strap 16mm        124 ROLL     920.00  114080.00) Tj
+T*
+(3   BRG-6205-2RS-035     Sealed Ball Bearing 6205             60 EA       166.50    9990.00) Tj
+T*
+(4   OIL-HYD-46-021       Hydraulic Oil ISO VG 46              55 LTR      123.90    6814.50) Tj
+T*
+(5   CBL-CU-2C-014        Copper Control Cable 2 Core         121 MTR       75.60    9147.60) Tj
+T*
+(6   BLT-M8-040-ZN-049    M8x40 Hex Bolt Zinc                  93 EA        11.00    1023.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 142589.10) Tj
+T*
+(Tax: INR 25666.04) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 168255.14) Tj
+T*
+(Calculated Gross Total: INR 168255.14) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001922 00000 n 
+0000001979 00000 n 
+0000002049 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2098
+%%EOF
